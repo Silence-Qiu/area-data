@@ -2,7 +2,6 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using AreaData;
 using Newtonsoft.Json;
-using System.Text.RegularExpressions;
 
 internal class Worker : BackgroundService
 {
