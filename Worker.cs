@@ -1,6 +1,5 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using AreaData;
 using Newtonsoft.Json;
 
 internal class Worker : BackgroundService

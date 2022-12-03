@@ -2,7 +2,6 @@ using System;
 using AngleSharp.Html.Parser;
 using Flurl.Http;
 
-namespace AreaData;
 public class CrawlerClient
 {
     private readonly IFlurlClient _client;
