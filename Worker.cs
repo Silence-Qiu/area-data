@@ -17,7 +17,7 @@ internal class Worker : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
-        var nodes = await LoadNodes("/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html");
+        var nodes = await LoadNodes("tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html");
 
         using var sr = new StreamWriter("nodes.json");
 

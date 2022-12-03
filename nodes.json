@@ -4,32 +4,32 @@
         "Code": "110000000000",
         "Name": "北京市",
         "FullName": "北京市",
-        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11.html",
-        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html",
+        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11.html",
+        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html",
         "Children": [
             {
                 "Level": 2,
                 "Code": "110100000000",
                 "Name": "市辖区",
                 "FullName": "北京市/市辖区",
-                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
-                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11.html",
+                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
+                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11.html",
                 "Children": [
                     {
                         "Level": 3,
                         "Code": "110101000000",
                         "Name": "东城区",
                         "FullName": "北京市/市辖区/东城区",
-                        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
-                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
+                        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
+                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
                         "Children": [
                             {
                                 "Level": 4,
                                 "Code": "110101001000",
                                 "Name": "东华门街道",
                                 "FullName": "北京市/市辖区/东城区/东华门街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -37,7 +37,7 @@
                                         "Name": "多福巷社区居委会",
                                         "FullName": "北京市/市辖区/东城区/东华门街道/多福巷社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
                                         "Children": []
                                     },
                                     {
@@ -46,7 +46,7 @@
                                         "Name": "银闸社区居委会",
                                         "FullName": "北京市/市辖区/东城区/东华门街道/银闸社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101001.html",
                                         "Children": []
                                     }
                                 ]
@@ -56,8 +56,8 @@
                                 "Code": "110101002000",
                                 "Name": "景山街道",
                                 "FullName": "北京市/市辖区/东城区/景山街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110101.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -65,7 +65,7 @@
                                         "Name": "隆福寺社区居委会",
                                         "FullName": "北京市/市辖区/东城区/景山街道/隆福寺社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
                                         "Children": []
                                     },
                                     {
@@ -74,7 +74,7 @@
                                         "Name": "吉祥社区居委会",
                                         "FullName": "北京市/市辖区/东城区/景山街道/吉祥社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/01/110101002.html",
                                         "Children": []
                                     }
                                 ]
@@ -86,16 +86,16 @@
                         "Code": "110102000000",
                         "Name": "西城区",
                         "FullName": "北京市/市辖区/西城区",
-                        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
-                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
+                        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
+                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/1101.html",
                         "Children": [
                             {
                                 "Level": 4,
                                 "Code": "110102001000",
                                 "Name": "西长安街街道",
                                 "FullName": "北京市/市辖区/西城区/西长安街街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -103,7 +103,7 @@
                                         "Name": "府右街南社区居委会",
                                         "FullName": "北京市/市辖区/西城区/西长安街街道/府右街南社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
                                         "Children": []
                                     },
                                     {
@@ -112,7 +112,7 @@
                                         "Name": "西交民巷社区居委会",
                                         "FullName": "北京市/市辖区/西城区/西长安街街道/西交民巷社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102001.html",
                                         "Children": []
                                     }
                                 ]
@@ -122,8 +122,8 @@
                                 "Code": "110102003000",
                                 "Name": "新街口街道",
                                 "FullName": "北京市/市辖区/西城区/新街口街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/110102.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -131,7 +131,7 @@
                                         "Name": "西里二区社区居委会",
                                         "FullName": "北京市/市辖区/西城区/新街口街道/西里二区社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
                                         "Children": []
                                     },
                                     {
@@ -140,7 +140,7 @@
                                         "Name": "西里一区社区居委会",
                                         "FullName": "北京市/市辖区/西城区/新街口街道/西里一区社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/11/01/02/110102003.html",
                                         "Children": []
                                     }
                                 ]
@@ -156,32 +156,32 @@
         "Code": "120000000000",
         "Name": "天津市",
         "FullName": "天津市",
-        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12.html",
-        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html",
+        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12.html",
+        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html",
         "Children": [
             {
                 "Level": 2,
                 "Code": "120100000000",
                 "Name": "市辖区",
                 "FullName": "天津市/市辖区",
-                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
-                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12.html",
+                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
+                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12.html",
                 "Children": [
                     {
                         "Level": 3,
                         "Code": "120101000000",
                         "Name": "和平区",
                         "FullName": "天津市/市辖区/和平区",
-                        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
-                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
+                        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
+                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
                         "Children": [
                             {
                                 "Level": 4,
                                 "Code": "120101001000",
                                 "Name": "劝业场街道",
                                 "FullName": "天津市/市辖区/和平区/劝业场街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -189,7 +189,7 @@
                                         "Name": "花园路社区居委会",
                                         "FullName": "天津市/市辖区/和平区/劝业场街道/花园路社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
                                         "Children": []
                                     },
                                     {
@@ -198,7 +198,7 @@
                                         "Name": "滨西社区居委会",
                                         "FullName": "天津市/市辖区/和平区/劝业场街道/滨西社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101001.html",
                                         "Children": []
                                     }
                                 ]
@@ -208,8 +208,8 @@
                                 "Code": "120101002000",
                                 "Name": "小白楼街道",
                                 "FullName": "天津市/市辖区/和平区/小白楼街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120101.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -217,7 +217,7 @@
                                         "Name": "泰安道社区居委会",
                                         "FullName": "天津市/市辖区/和平区/小白楼街道/泰安道社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
                                         "Children": []
                                     },
                                     {
@@ -226,7 +226,7 @@
                                         "Name": "树德里社区居委会",
                                         "FullName": "天津市/市辖区/和平区/小白楼街道/树德里社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/01/120101002.html",
                                         "Children": []
                                     }
                                 ]
@@ -238,16 +238,16 @@
                         "Code": "120102000000",
                         "Name": "河东区",
                         "FullName": "天津市/市辖区/河东区",
-                        "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
-                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
+                        "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
+                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/1201.html",
                         "Children": [
                             {
                                 "Level": 4,
                                 "Code": "120102001000",
                                 "Name": "大王庄街道",
                                 "FullName": "天津市/市辖区/河东区/大王庄街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -255,7 +255,7 @@
                                         "Name": "诚厚里社区居委会",
                                         "FullName": "天津市/市辖区/河东区/大王庄街道/诚厚里社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
                                         "Children": []
                                     },
                                     {
@@ -264,7 +264,7 @@
                                         "Name": "麟祥里社区居委会",
                                         "FullName": "天津市/市辖区/河东区/大王庄街道/麟祥里社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102001.html",
                                         "Children": []
                                     }
                                 ]
@@ -274,8 +274,8 @@
                                 "Code": "120102002000",
                                 "Name": "大直沽街道",
                                 "FullName": "天津市/市辖区/河东区/大直沽街道",
-                                "ChildrenURI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
-                                "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
+                                "ChildrenURI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
+                                "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/120102.html",
                                 "Children": [
                                     {
                                         "Level": 5,
@@ -283,7 +283,7 @@
                                         "Name": "文华里社区居委会",
                                         "FullName": "天津市/市辖区/河东区/大直沽街道/文华里社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
                                         "Children": []
                                     },
                                     {
@@ -292,7 +292,7 @@
                                         "Name": "和进里社区居委会",
                                         "FullName": "天津市/市辖区/河东区/大直沽街道/和进里社区居委会",
                                         "ChildrenURI": null,
-                                        "URI": "http://www.stats.gov.cn//tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
+                                        "URI": "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/12/01/02/120102002.html",
                                         "Children": []
                                     }
                                 ]
