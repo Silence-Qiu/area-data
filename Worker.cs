@@ -51,6 +51,7 @@ internal class Worker : BackgroundService
 
                 return new AreaDataNode
                 {
+                    Level = x.Level,
                     Code = x.Code,
                     Name = x.Name,
                     URI = new($"{_crawlerClient.BaseAddress}{uri}"),
