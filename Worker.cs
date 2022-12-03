@@ -1,6 +1,7 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 
 internal class Worker : BackgroundService
 {
@@ -21,14 +22,17 @@ internal class Worker : BackgroundService
 
         using var sr = new StreamWriter("nodes.json");
 
-        await sr.WriteAsync(JsonConvert.SerializeObject(nodes));
+        await sr.WriteAsync(JsonConvert.SerializeObject(nodes, new JsonSerializerSettings
+        {
+            ContractResolver = new CamelCasePropertyNamesContractResolver()
+        }));
 
         _lifetime.StopApplication();
 
         async Task<List<AreaDataNode>> LoadNodes(string? uri, string? name = null)
         {
             await Task.Delay(200);
-            
+
             if (uri is null)
                 return new();
 
