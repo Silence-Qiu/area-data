@@ -28,6 +28,7 @@ internal class Worker : BackgroundService
         async Task<List<AreaDataNode>> LoadNodes(string? uri, string? name = null)
         {
             await Task.Delay(200);
+            
             if (uri is null)
                 return new();
 
