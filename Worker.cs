@@ -27,15 +27,17 @@ internal class Worker : BackgroundService
             ContractResolver = new CamelCasePropertyNamesContractResolver()
         }));
 
+
         _lifetime.StopApplication();
 
-        async Task<List<AreaDataNode>> LoadNodes(string? uri, string? name = null)
+        async Task<List<AreaDataNode>> LoadNodes(string? uri, int i=0, string? name = null, string? parentCode = null)
         {
             await Task.Delay(200);
 
             if (uri is null)
                 return new();
-
+            if (i == 2)
+                return new();
             var html = await _crawlerClient.FetchHtmlAsync(uri);
 
             var nodes = _crawlerClient.HtmlToNode(html);
@@ -51,8 +53,10 @@ internal class Worker : BackgroundService
                                   $"{string.Join('/', routes[0..(routes.Length - 1)])}/{x.ChildrenURI}";
 
                 var fullName = name is null ? x.Name : $"{name}/{x.Name}";
+                parentCode = parentCode is null ? "0" : x.Code;
 
                 _logger.LogInformation("{_},{_}", fullName, x.Code);
+
 
                 return new AreaDataNode
                 {
@@ -62,7 +66,8 @@ internal class Worker : BackgroundService
                     URI = new($"{_crawlerClient.BaseAddress}{uri}"),
                     ChildrenURI = x.ChildrenURI is null ? null : $"{_crawlerClient.BaseAddress}{childrenURI}",
                     FullName = fullName,
-                    Children = LoadNodes(childrenURI, fullName).Result
+                    ParentCode = parentCode,
+                    Children = LoadNodes(childrenURI, i + 1, fullName, parentCode).Result
                 };
             })
             .ToList();

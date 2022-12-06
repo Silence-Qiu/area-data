@@ -38,7 +38,8 @@ public class CrawlerClient
         //街道
         var townDoms = document.QuerySelectorAll(".towntable .towntr");
         //村
-        var villageDoms = document.QuerySelectorAll(".villagetable .villagetr");
+        
+          var villageDoms = document.QuerySelectorAll(".villagetable .villagetr");
 
         return Array.Empty<AreaDataNode>()
                 .Concat(provinceDoms.Select(dom =>
@@ -106,6 +107,7 @@ public class AreaDataNode
     public string Code { get; set; } = default!;
     public string Name { get; set; } = default!;
     public string FullName { get; set; } = default!;
+    public string ParentCode { get; set; }
     public string? ChildrenURI { get; set; }
     public Uri URI { get; set; } = default!;
     public List<AreaDataNode> Children { get; set; } = new();

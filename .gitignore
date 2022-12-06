@@ -1,2 +1,6 @@
 bin
 obj
+*.v2
+/.vs/area-data/v16/.suo
+*.suo
+*.v1
